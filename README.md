@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulr2101" alt="rahulr2101" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **Rahulrajesh2101@gmail.com**
 
