@@ -90,7 +90,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rahulr2101/rahulr2101/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
